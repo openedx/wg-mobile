@@ -6,8 +6,6 @@ kind: Component
 metadata:
   name: 'wg-mobile'
   description: "Open edX Mobile working group board for platform-agnostic issues"
-  annotations:
-    openedx.org/release: "main"
 spec:
   owner: group:openedx-mobile-maintainers
   type: 'mobile'
